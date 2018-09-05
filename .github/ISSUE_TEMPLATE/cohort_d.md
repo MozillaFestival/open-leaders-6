@@ -22,7 +22,7 @@ Before Week 1 (Sept 12): Your first mentorship call
 - [ ] Make sure you know when and how you'll be meeting with your mentor.
 
 Before Week 2 (Sept 19): First Cohort Call (Open by Design)
-- [ ] Complete Assignment ['Write Your Vision or Mission Statement'](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/). Leave your comment on this issue with your draft vision statement & be ready to share this on the call.
+- [ ] Complete Assignment ['Write Your Vision or Mission Statement'](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/). Leave a comment on this issue with your draft vision statement & be ready to share this on the call.
 - [ ] Watch ['Mozilla & Working Open'](https://youtu.be/quKdaqlR_9w).
 - [ ] Check the [Syllabus](https://mzl.la/ol6-syllabus) for notes and connection info for all the cohort calls.
 
