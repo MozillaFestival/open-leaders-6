@@ -20,7 +20,6 @@ Welcome to OL6, Cohort C! This issue will be used to track your project and prog
 
 Before Week 1 (Sept 12): Your first mentorship call
 - [ ] Complete the OLF self-assessment ([online](https://mzl.la/olf-online-assessment), [printable](https://mzl.la/olf-self-assessment)). If you're a group, each teammate should complete this assessment individually. This is here to help you set your own personal goals during the program. No need to share your results, but be ready to share your thoughts with your mentor.
-- [ ] Join the [Gitter chat](https://gitter.im/mozilla/open-leadership-training) & say hi :wave:.
 - [ ] Make sure you know when and how you'll be meeting with your mentor.
 
 Before Week 2 (Sept 19): First Cohort Call (Open by Design)
