@@ -24,7 +24,7 @@ Before Week 1 (Sept 13): Your first mentorship call
 Before Week 2 (Sept 20): First Cohort Call (Open by Design)
 - [ ] Complete Assignment ['Write Your Vision or Mission Statement'](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/). Leave a comment on this issue with your draft vision statement & be ready to share this on the call.
 - [ ] Watch ['Mozilla & Working Open'](https://youtu.be/quKdaqlR_9w).
-- [ ] Check the [Syllabus](https://mzl.la/ol6-syllabus) for notes and connection info for all the cohort calls.
+- [ ] Check the [Syllabus](https://mzl.la/ol6-syllabus-culture-track) for notes and connection info for all the cohort calls.
 
 Before Week 3 (Sept 27): Mentorship call
 - [ ] Look up two other projects and comment on their issues with feedback on their vision statement.
@@ -36,4 +36,4 @@ Before Week 4 (Oct 4): Cohort Call (Build for Understanding)
 - [ ] [Pick an open license](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/) for the work you're doing during the program.
 - [ ] Use your canvas to [start writing a README](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), or landing page, for your project. Link to your README in a comment on this issue.
 
-This issue is here to help you keep track of work during the first month of the program. Please refer to the [OL6 Syllabus](https://mzl.la/ol6-syllabus) for more detailed weekly notes and assignments past week 4.
+This issue is here to help you keep track of work during the first month of the program. Please refer to the [OL6 Syllabus](https://mzl.la/ol6-syllabus-culture-track) for more detailed weekly notes and assignments past week 4.
