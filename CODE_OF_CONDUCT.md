@@ -5,12 +5,12 @@ Mozilla Open Leaders respects Mozilla's [community participation guidelines](htt
 
 ## How to treat each other
 
-Be respectful and value each other’s ideas, styles and viewpoints.
-Be direct but professional; we cannot withhold hard truths.
-Be inclusive and help new perspectives be heard.
-Appreciate and accommodate our many cultural practices, attitudes and beliefs.
-Be open to learning from others.
-Lead by example and match your actions with your words.
+* Be respectful and value each other’s ideas, styles and viewpoints.
+* Be direct but professional; we cannot withhold hard truths.
+* Be inclusive and help new perspectives be heard.
+* Appreciate and accommodate our many cultural practices, attitudes and beliefs.
+* Be open to learning from others.
+* fLead by example and match your actions with your words.
 
 ## Inclusion and Diversity
 
