@@ -1,7 +1,7 @@
 <!--- MOZFEST PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
-This project, participating in the Mozilla Festival, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making the MozFest possible.
+Mozilla Open Leaders respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, mentors, experts, staff, volunteers, and anyone else involved in making Mozilla Open Leaders possible.
 
 ## How to treat each other
 
@@ -20,15 +20,13 @@ We welcome contributions from everyone as long as they interact constructively w
 
 Mozilla-based activities should be inclusive and should support such diversity.
 
-## Raising Issues at MozFest
+## Raising Issues
 
-If you believe you‘re experiencing practices at MozFest which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact the Festival Producer, Sarah Allen.
+If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact the Mozilla Open Leaders organizers, Abigail Cabunoc Mayes or Chad Sansing.
 
-At the festival venue, contact the info desk and they will immediately find the Festival Producer for you.
+Mozilla Open Leaders  organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the program.
+Email: leadopen@mozilla.org
 
-MozFest organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
-
-Email: festival@mozilla.org
 
 ## Working in the Open
 
