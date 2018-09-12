@@ -26,9 +26,4 @@ If you believe you‘re experiencing practices which don‘t meet the above poli
 
 Mozilla Open Leaders  organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the program.
 Email: leadopen@mozilla.org
-
-
-## Working in the Open
-
-Because working open is one of our core values, MozFest program planning is done in the open on Github (check out our repo [here](https://github.com/MozillaFoundation/mozfest-program-2016)). We hope participants will benefit from this culture of transparency and collaboration during the Festival, and will continue to work with an open ethos in their projects after Mozfest. Learn more about [how we work open at Mozilla](https://wiki.mozilla.org/Working_open).
 <!--- END MOZFEST PARTICIPATION GUIDLINES --->
