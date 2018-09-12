@@ -10,7 +10,7 @@ Mozilla Open Leaders respects Mozilla's [community participation guidelines](htt
 * Be inclusive and help new perspectives be heard.
 * Appreciate and accommodate our many cultural practices, attitudes and beliefs.
 * Be open to learning from others.
-* fLead by example and match your actions with your words.
+* Lead by example and match your actions with your words.
 
 ## Inclusion and Diversity
 
